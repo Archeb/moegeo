@@ -1,0 +1,10 @@
+# ============================================================
+#  Geofeed for AS199794 (EMOCLOUD LTD)
+#  Tokyo IP range
+# ============================================================
+
+name: "EMOCLOUD LTD"
+asn: "AS199794"
+contact: "abuse@emocloud.co"
+geofeed_urls:
+  - "https://api.emocloud.co/geofeed.csv"
